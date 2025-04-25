@@ -5,4 +5,4 @@
 - HTML, CSS, JS
 - C#
 
-###### discord: tecp0
+###### discord: _hakenkreuz
