@@ -1,8 +1,6 @@
-## posuwacz 🗿
-###### Pan prezes posuwacz
-**Languages that i know:**
+# posuwacz
+**Języki jakie znam/Languages that i know:**
 - Python
-- HTML, CSS, JS
 - C#
-
-###### discord: _hakenkreuz
+- HTML, CSS, JS
+- Lua
