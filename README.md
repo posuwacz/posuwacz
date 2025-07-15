@@ -1,4 +1,4 @@
-# posuwacz
+# szajzanusz
 **Języki jakie znam/Languages that i know:**
 - Python
 - C#
